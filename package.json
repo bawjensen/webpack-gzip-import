@@ -4,5 +4,8 @@
     "express": "^4.16.3",
     "webpack": "^4.10.2",
     "webpack-cli": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
