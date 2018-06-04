@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "compression-webpack-plugin": "^1.1.11",
+    "express": "^4.16.3",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.2"
+  }
+}
